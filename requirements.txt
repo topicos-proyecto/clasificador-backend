@@ -1,0 +1,1 @@
+-r ../clasificador-tickets-nlp/requirements.txt
